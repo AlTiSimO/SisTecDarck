@@ -5,7 +5,7 @@
   "icon": "img/S.png",
   "version": "0.0.1",
   "license": "MIT",
-  "publisher": "SisTec",
+  "publisher": "SisTecDarck",
   "engines": {
     "vscode": "^1.71.0"
   },
