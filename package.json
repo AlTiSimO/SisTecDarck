@@ -1,0 +1,32 @@
+{
+  "name": "sistecdarck-theme",
+  "displayName": "SisTecDarck Theme",
+  "description": "Un tema oscuro, minimalista inspirado en Monokai.",
+  "icon": "img/S.png",
+  "version": "0.0.1",
+  "license": "MIT",
+  "publisher": "SisTec",
+  "engines": {
+    "vscode": "^1.71.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "author": {
+    "name": "Santy",
+    "email": "santy@sis-tec.net"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlTiSimO/SisTecDarck.git"
+  },
+  "contributes": {
+    "themes": [
+      {
+        "label": "SisTec Theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/SisTec Theme-color-theme.json"
+      }
+    ]
+  }
+}
