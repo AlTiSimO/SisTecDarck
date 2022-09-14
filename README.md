@@ -3,10 +3,10 @@
   <img src="https://raw.githubusercontent.com/AlTiSimO/SisTecDarck/main/img/S.png" alt="SisTec"  height="100" width="100">
 </p>
 
-Tema Darck para VS code, Se hizo basado en monokai, ayudando a la comunidad de temas y extenciones...
-Gracias a github me ayuda a tener mas organizado los repositorios.
+Tema Oscuro para VS code, Se hizo basado en monokai, ayudando a la comunidad de temas y extensiones. Para su mejor Apariencia con respecto a iconos se recomienda usar la Extensión Material Icon Theme, en las próximas versiones de este tema crearemos nuevos iconos. Gracias a github tengo más organizado los repositorios.
 
-[github.com/AlTiSimO/SisTecDarck] 
-(https://github.com/AlTiSimO/SisTecDarck)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/AlTiSimO/SisTecDarck/main/img/Modelo.png" alt="SisTecModel"  height="447" width="683">
+</p>
 
 **Author: by Santy**
