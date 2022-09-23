@@ -11,7 +11,7 @@
 		"activityBar.background": "#000000",
 		"activityBar.border": "#000000",
 		"statusBar.background": "#000000",
-		"statusBar.noFolderBackground": "#199CEF",
+		"statusBar.noFolderBackground": "#000000",
 		"statusBar.debuggingBackground": "#0a1016",
 		"statusBar.foreground": "#dadada",
 		"statusBar.border": "#000000",
