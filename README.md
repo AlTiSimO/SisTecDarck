@@ -9,4 +9,4 @@ Tema Oscuro para VS code, Se hizo basado en monokai, ayudando a la comunidad de 
   <img src="https://raw.githubusercontent.com/AlTiSimO/SisTecDarck/main/img/Modelo.png" alt="SisTecModel"  height="447" width="683">
 </p>
 
-**Author: by Santy**
+**Author: Ing.Santy**
