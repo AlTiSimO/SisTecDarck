@@ -3,7 +3,7 @@
   "displayName": "SisTecDarck Theme",
   "description": "Tema oscuro, minimalista inspirado en Monokai.",
   "icon": "img/S.png",
-  "version": "1.2",
+  "version": "1.2.0",
   "license": "MIT",
   "publisher": "SisTecDarck",
   "engines": {
